@@ -10,7 +10,7 @@ http.createServer((req, res) => {
 const CONFIG = {
   host: 'cindermc.online',
   port: 25565,
-  username: 'Algosher11',
+  username: 'BoiiChamChi',
   auth: 'offline',
   version: '1.20.4',
   physicsEnabled: false,
@@ -18,7 +18,7 @@ const CONFIG = {
   hideErrors: true
 };
 
-const PASSWORD = '123456';
+const PASSWORD = '123123';
 
 let reconnectTimer = null;
 let stopReconnect = false;
